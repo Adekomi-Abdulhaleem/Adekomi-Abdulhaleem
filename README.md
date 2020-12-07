@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ... someone to a project i am working on the design, https://www.figma.com/file/ibFJqEySfsMgLWpLVX2kFP/Untitled - my start-up
 - 💬 Ask me about ... Anything front-end, i am not an expert but we will surely get answer
 - 📫 How to reach me: ... adekomiabdulhaleem@gmail.com, +2348163667372, twitter: @theCheapestDev
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: ... He/His/Him
+- ⚡ Fun fact: ... I love money a lot
 -->
